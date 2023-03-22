@@ -1,3 +1,3 @@
 global:
-  eiparn: <<eip_id>>
-  sslcert: <<sslcert_arn>>
+  eiparn: eipalloc-0277037a5098069c8,eipalloc-0e622da54c5447abb
+  sslcert: arn:aws:acm:us-east-1:231749140557:certificate/d2b2cdc7-7495-4713-a5d4-ca9f4091c602 
