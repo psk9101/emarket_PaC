@@ -105,7 +105,7 @@ global:
   sql:
     ## @param global.sql.host AWS RDS service endpoint
     ##
-    host: psk-keycloackdb.cmh23qtrzdiq.us-east-1.rds.amazonaws.com
+    host: psk-keycloackdb.cmh23qtrzdiq.us-east-1.rds.amazonaws.com 
     ## @param global.sql.port AWS RDS service port
     ##
     port: 3306
@@ -113,7 +113,7 @@ global:
       ## @param global.sql.common.user AWS RDS service username
       ##
       user: admin
-      pwd: dQBYNV3S1K 
+      pwd: 2U4j3CjQhX 
       pid: Developer
   mongo:
     architecture: standalone
